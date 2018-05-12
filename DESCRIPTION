@@ -14,3 +14,4 @@ Imports:
     stringr,
     zip,
     purrr
+RoxygenNote: 6.0.1
