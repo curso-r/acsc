@@ -29,3 +29,10 @@ site/
 Modifique o conteudo das aulas e etc na pasta content e no arquivo config.toml dentro do site.
 
 Use a função `zipar_aulas` para automaticamente ziapar as pastas das aulas e colocá-las na pasta `static` do site para serem servidas pelo site.
+
+## Exemplo
+
+Um exemplo completo funcionando aqui:
+
+* [Github](https://github.com/curso-r/201805-introducao-a-programacao-em-r/tree/site)
+* [Site Live](https://sleepy-murdock-571b20.netlify.com)
